@@ -24,7 +24,7 @@ You can instantiate an editor as follows:
 	document-file-type="docx"
 	document-key="-1885629705"
 	document-title="The colour of the magic.docx"
-	document-url="http://my-storage-service/path/to	/file.docx"
+	document-url="http://my-storage-service/path/to/file.docx"
 ></only-office>
 ```
 
