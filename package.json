@@ -1,0 +1,25 @@
+{
+  "name": "only-office",
+  "description": "Element that represents an editor of onlyoffice",
+  "main": "only-office.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "polymer serve"
+  },
+  "keywords": [
+    "onlyoffice",
+    "polymer3"
+  ],
+  "author": "Jonatan E. Duttweiler <jduttweiler@santafe.gov.ar>",
+  "license": "ISC",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  },
+  "devDependencies": {
+    "@polymer/test-fixture": "^4.0.2",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "wct-mocha": "^1.0.1"
+  }
+}
